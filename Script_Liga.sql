@@ -82,7 +82,7 @@ INSERT INTO JUGADOR VALUES('Gerard Piqué Bernabeu', '94723842T', 'Defensa', 'FC 
 INSERT INTO JUGADOR VALUES('Jordi Alba Ramos', '21435325Y', 'Defensa', 'FC Barcelona', 'Española');
 INSERT INTO JUGADOR VALUES('Oscar Mingueza Garcia', '97235256R', 'Defensa', 'FC Barcelona', 'Española');
 INSERT INTO JUGADOR VALUES('Luis Alberto Suarez Diaz', '52654528I', 'Delantero', 'Atletico de Madrid', 'Uruguaya');
-INSERT INTO JUGADOR VALUES('Joao Feliz Sequeira', '23567285G', 'Delantero', 'Atletico de Madrid', 'Portuguesa');
+INSERT INTO JUGADOR VALUES('Joao FeliX Sequeira', '23567285G', 'Delantero', 'Atletico de Madrid', 'Portuguesa');
 INSERT INTO JUGADOR VALUES('Saul Ñiguez Escalpez', '35278534U', 'Centrocampista', 'Atletico de Madrid', 'Española');
 INSERT INTO JUGADOR VALUES('Jorge Resureccion Medina', '53728532T', 'Centrocampista', 'Atletico de Madrid', 'Española');
 INSERT INTO JUGADOR VALUES('Jan Oblak', '2353256Q', 'Portero', 'Atletico de Madrid', 'Esloveia');
@@ -92,7 +92,27 @@ INSERT INTO JUGADOR VALUES('Sergio Canales Madrazo', '6273435V', 'Centrocampista
 INSERT INTO JUGADOR VALUES('Joaquín Sanchez Rodriguez', '5252052E', 'Centrocampista', 'Real Betis', 'Española');
 INSERT INTO JUGADOR VALUES('Borja Iglesias Quintas', '6237582D', 'Delantero', 'Real Betis', 'Española');
 
- 
+INSERT INTO GOLEADOR VALUES ('Youssef En-Nesyri', '98767324T','Sevilla FC', 17); 
+INSERT INTO GOLEADOR VALUES ('Lionel Andres Messi Cuticcini', '53454321O', 'FC Barcelona', 25);
+INSERT INTO GOLEADOR VALUES ('Luis Alberto Suarez Diaz', '52654528I', 'Atletico de Madrid', 19);
+INSERT INTO GOLEADOR VALUES ('Karim Benzema', '12432592D', 'Real Madrid CF', 21);
+INSERT INTO GOLEADOR VALUES ('Borja Iglesias Quintas', '6237582D', 'Real Betis', 7);
+INSERT INTO GOLEADOR VALUES ('Sergio Canales Madrazo', '6273435V', 'Real Betis', 8);
+INSERT INTO GOLEADOR VALUES ('Jules Koundé', '98732425I', 'Sevilla FC', 2);
+INSERT INTO GOLEADOR VALUES ('Antoine Griezmann', '14325432U', 'FC Barcelona', 9);
+INSERT INTO GOLEADOR VALUES ('Joao FeliX Sequeira', '23567285G', 'Atletico de Madrid', 7);
+INSERT INTO GOLEADOR VALUES ('Toni Kroos', '78263456L', 'Real Madrid CF', 3);
+
+INSERT INTO ASISTENTE VALUES ('Toni Kroos', '78263456L', 'Real Madrid CF',10);
+INSERT INTO ASISTENTE VALUES ('Daniel Carvajal Ramos', '64354528M', 'Real Madrid CF', 4);
+INSERT INTO ASISTENTE VALUES ('Joan Jordán Moreno', '56728323N', 'Sevilla FC', 7);
+INSERT INTO ASISTENTE VALUES ('Jesus Navas Gonzalez', '84328531M', 'Sevilla FC', 6);
+INSERT INTO ASISTENTE VALUES ('Lionel Andres Messi Cuticcini', '53454321O', 'FC Barcelona', 14);
+INSERT INTO ASISTENTE VALUES ('Jordi Alba Ramos', '21435325Y', 'FC Barcelona', 15);
+INSERT INTO ASISTENTE VALUES ('Sergio Canales Madrazo', '6273435V', 'Real Betis', 6);
+INSERT INTO ASISTENTE VALUES ('Nabil Fekir', '2405325F', 'Real Betis', 6);
+INSERT INTO ASISTENTE VALUES ('Jorge Resureccion Medina', '53728532T', 'Atletico de Madrid',2);
+INSERT INTO ASISTENTE VALUES ('Joao FeliX Sequeira', '23567285G', 'Atletico de Madrid',5);
 
 
 
